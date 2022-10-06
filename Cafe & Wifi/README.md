@@ -1,0 +1,1 @@
+Flask app with SQLAlchemy DB, contains index page with API request routes. Exploring and using Postman in parallel for requests and API documentation, you may find it [here.](https://documenter.getpostman.com/view/11083730/2s83zfPQRP)
